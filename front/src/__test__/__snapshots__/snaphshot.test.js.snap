@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shallow rendered Todo Card should render a card with the details of the Todo 1`] = `
+<div
+  className="container"
+>
+  <h4>
+    О сайте
+  </h4>
+  <p>
+    Сайт разработан
+  </p>
+</div>
+`;

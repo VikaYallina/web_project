@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shallow rendered Todo Card Testst 1`] = `
+<div>
+  <div
+    className="container"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-md-4"
+      >
+        <div
+          className="mb-4 card"
+        >
+          <div
+            className="card-body"
+          >
+            <h5
+              className="card-title"
+            >
+              Test
+            </h5>
+            <h6
+              className="card-subtitle"
+            >
+              Rs. 
+              12.12
+            </h6>
+            <p
+              className="card-text"
+            >
+              sport
+            </p>
+            <button
+              aria-label={null}
+              className="btn btn-success btn-sm"
+              onClick={[Function]}
+              type="button"
+            >
+              Add To Cart
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
